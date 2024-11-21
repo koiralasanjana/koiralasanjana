@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/SfZSTB4/DALL-E-2024-11-21-10-33-17-A-realistic-digital-art-of-a-professional-young-woman-with-long-wavy-blac.webp" alt="DALL-E-2024-11-21-10-33-17-A-realistic-digital-art-of-a-professional-young-woman-with-long-wavy-blac" border="0" width="80%" margin="auto"><br>
+<img src="https://i.ibb.co/b39QShZ/profile.webp" alt="profile" width="100%">
 
 <h3 align="center">Hi, I'm Sanjana Koirala</h3>
 <p align="center">
