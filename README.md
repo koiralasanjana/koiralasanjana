@@ -75,7 +75,7 @@ I am a dedicated learner focused on advancing my skills in software development 
 
 ### **📊 GitHub Stats**
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koiralasanjana&show_icons=true&locale=en&layout=compact" alt="koiralasanjana's most used languages" height="200" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koiralasanjana&" alt="koiralasanjana's GitHub streak" height="200" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koiralasanjana&show_icons=true&locale=en&layout=compact" alt="koiralasanjana's most used languages" style="max-width: 45%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koiralasanjana&" alt="koiralasanjana's GitHub streak" style="max-width: 45%; height: auto;" />
+</div>
