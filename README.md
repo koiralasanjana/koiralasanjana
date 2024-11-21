@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/b39QShZ/profile.webp" alt="profile">
-</p>
+<img align="right" alt="Coding" src="https://i.ibb.co/sH42KWY/DALL-E-2024-08-26-13-37-51-A-high-quality-digital-art-image-of-a-girl-with-long-wavy-black-hair-sitt.webp"/>
 
 <h3 align="center">Hi, I'm Sanjana Koirala</h3>
 <p align="center">
