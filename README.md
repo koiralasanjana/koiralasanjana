@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" src="https://i.ibb.co/sH42KWY/DALL-E-2024-08-26-13-37-51-A-high-quality-digital-art-image-of-a-girl-with-long-wavy-black-hair-sitt.webp"/>
 
 <h3 align="center">Hi 👋, I'm Sanjana Koirala</h3>
-<h4 align="center">I am a dedicated learner focused on advancing my skills in software development and artificial intelligence. My current interests include backend development with Java, SQL, and Spring Boot, as well as exploring AI/ML applications through hands-on projects. I aim to transition into a role that combines development expertise with data-driven problem-solving, preparing for a future in computer science or data science..</h4>
+<p align="center">I am a dedicated learner focused on advancing my skills in software development and artificial intelligence. My current interests include backend development with Java, SQL, and Spring Boot, as well as exploring AI/ML applications through hands-on projects. I aim to transition into a role that combines development expertise with data-driven problem-solving, preparing for a future in computer science or data science..</p>
 
 
 <ul>
