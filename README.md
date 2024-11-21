@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/b39QShZ/profile.webp" alt="profile">
+<img src="https://i.ibb.co/b39QShZ/profile.webp" alt="profile" style="display: block; margin: 0 auto;">
 
 <h3 align="center">Hi, I'm Sanjana Koirala</h3>
 <p align="center">
