@@ -1,5 +1,5 @@
 <h3 align="center">About Me</h3>
-### **💡 What I’m Working On**
+**💡 What I’m Working On**
 <ul>
   <li>Building expertise in software development and artificial intelligence to solve real-world problems effectively.</li>
   <li>Enhancing skills in Java, SQL, Spring Boot, and Python to strengthen my development foundations.</li>
